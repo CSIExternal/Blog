@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the first blog content."
+    },
+    {
+        "id": 2,
+        "title": "Second Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Vishal",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 14, 2025",
+        "content": "This is the second blog content."
+    },
+    {
+        "id": 3,
+        "title": "Third Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the third blog content."
+    },
+    {
+        "id": 4,
+        "title": "Fourth Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Vishal",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 14, 2025",
+        "content": "This is the fourth blog content."
+    },
+    {
+        "id": 5,
+        "title": "Fifth Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the fifth blog content."
+    },
+    {
+        "id": 6,
+        "title": "Sixth Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Vishal",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 14, 2025",
+        "content": "This is the sixth blog content."
+    },
+    {
+        "id": 7,
+        "title": "Seventh Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the seventh blog content."
+    },
+    {
+        "id": 8,
+        "title": "Eighth Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Vishal",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 14, 2025",
+        "content": "This is the eighth blog content."
+    },
+    {
+        "id": 9,
+        "title": "Ninth Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the ninth blog content."
+    }
+]
