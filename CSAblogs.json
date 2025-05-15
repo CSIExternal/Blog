@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the first blog content. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti molestiae quo ab excepturi ex laborum expedita accusamus distinctio, fugit aut, recusandae in odit iste molestias. Quaerat, atque, ex incidunt officia veritatis magnam excepturi, ratione officiis omnis ab tempore laboriosam rerum beatae eius in consectetur consequatur delectus? Voluptate nobis natus quaerat est voluptatum quam eum ipsa quasi eligendi iure, repellendus laborum harum tenetur accusamus, labore architecto exercitationem quibusdam doloribus? Assumenda, consequatur quod repellat cumque architecto ipsum officia at, quisquam, autem commodi quae libero iusto fuga et fugit cupiditate nihil fugiat veritatis voluptate dolores. Ea quia et autem saepe reiciendis? Omnis!"
+    },
+    {
+        "id": 2,
+        "title": "Second Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Vishal",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 14, 2025",
+        "content": "This is the second blog content."
+    },
+    {
+        "id": 3,
+        "title": "Third Blog Post",
+        "image": "https://th.bing.com/th/id/OIG3.ldg.d_kMmujbNUNYaPvW?w=1792&h=1024&rs=1&pid=ImgDetMain",
+        "author": "Mahesh",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png",
+        "date": "May 15, 2025",
+        "content": "This is the third blog content."
+    }
+]
